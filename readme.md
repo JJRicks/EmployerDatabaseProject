@@ -1,4 +1,4 @@
-# Employer DataBase 
+# Employer Database 
 
 A simple employee Database in SQLite
 
