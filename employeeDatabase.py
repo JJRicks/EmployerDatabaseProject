@@ -5,8 +5,6 @@ from datetime import date
 # store the database next to this script 
 database_path = Path(__file__).with_name("employees.db")
 
-# Basic schema for our one-table app.
-# Note: email is UNIQUE just to show off a constraint + error handling later.
 sql_schema = """
 CREATE TABLE IF NOT EXISTS employees (
     id          INTEGER PRIMARY KEY AUTOINCREMENT,
