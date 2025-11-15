@@ -1,6 +1,6 @@
-# Project Title (Update)
+# Employer DataBase 
 
-Employee Database in SQLite
+A simple employee Database in SQLite
 
 
 ## Instructions for Build and Use
